@@ -2,7 +2,7 @@
 ### Topological Sort
 lt210
 ### Cycle Detection
-LT 207
+LT207
 #### DFS
 use a stack and visited, while iterating, if node appears in stack again, then cycle detected
 #### BFS - Kahn's Algorithm 
@@ -14,6 +14,7 @@ use a stack and visited, while iterating, if node appears in stack again, then c
 
 ### Shortest Path in a DAG
 ### Longest Path in a DAG
+lt329
 - DFS + memorization 
 - BFS with keeping track of levels
 
