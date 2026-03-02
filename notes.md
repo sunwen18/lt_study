@@ -7,7 +7,8 @@ LT 207
 use a stack and visited, while iterating, if node appears in stack again, then cycle detected
 #### BFS - Kahn's Algorithm 
 - each node has in_degree of the number of nodes pointing to it
-- iterate and in_degree - 1
+- start with nodes with in_degree = 0
+- iterate the neighbors and in_degree - 1
 - if in_degree = 0, enqueue the node
 - keep count of the nodes with in_degree=0, if < total number of nodes, then cycle
 
