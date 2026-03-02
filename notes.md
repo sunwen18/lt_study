@@ -14,4 +14,9 @@ use a stack and visited, while iterating, if node appears in stack again, then c
 
 ### Shortest Path in a DAG
 ### Longest Path in a DAG
-### Dynamic Programming on DAG
+- DFS + memorization 
+- BFS with keeping track of levels
+
+## Dynamic Programming 
+### top-down
+DFS + memorization
