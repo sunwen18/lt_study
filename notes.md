@@ -21,3 +21,8 @@ lt329
 ## Dynamic Programming 
 ### top-down
 DFS + memorization
+
+## linked list
+- revert linked list 206
+  - recursion
+  - iteration
