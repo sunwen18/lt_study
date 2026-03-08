@@ -23,6 +23,9 @@ lt329
 DFS + memorization
 
 ## linked list
-- revert linked list 206
+- reverse linked list 206
   - recursion
   - iteration
+ 
+## Permutation & combination
+use backtrack
