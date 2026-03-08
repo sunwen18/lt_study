@@ -1,4 +1,11 @@
-## DAG - Directed Acyclic Graph.
+## 1. linked list
+- reverse linked list 206
+  - recursion
+  - iteration
+ 
+## 2. Permutation & combination
+use backtrack
+## 3. DAG - Directed Acyclic Graph.
 ### Topological Sort
 lt210
 ### Cycle Detection
@@ -18,14 +25,8 @@ lt329
 - DFS + memorization 
 - BFS with keeping track of levels
 
-## Dynamic Programming 
+## 4. Dynamic Programming 
 ### top-down
 DFS + memorization
 
-## linked list
-- reverse linked list 206
-  - recursion
-  - iteration
- 
-## Permutation & combination
-use backtrack
+
